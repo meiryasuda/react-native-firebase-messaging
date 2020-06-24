@@ -26,5 +26,9 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "genversion": "^2.2.1",
+    "rimraf": "^3.0.2"
   }
 }
